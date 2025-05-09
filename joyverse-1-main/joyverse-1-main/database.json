@@ -1,0 +1,9 @@
+{
+    "admins": [
+      { "id": "1", "username": "superadmin", "password": "super123", "isSuperAdmin": true }
+    ],
+    "children": [],
+    "gameScores": [],
+    "feedback": []
+  }
+  
